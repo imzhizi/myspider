@@ -1,8 +1,8 @@
 ## Quick Start
 
-本项目是 的参考项目
+本项目是 [Scrapy 概览笔记 - 难以想象的晴朗]( https://www.cnblogs.com/imzhizi/p/scrapy-quick-look.html ) 的参考项目
 
-'''bash
+```bash
 # 创建文件夹
 mkdir spider-demo
 cd spider-demo
@@ -21,4 +21,4 @@ cd myspider
 pip install -r requirements.txt
 
 # 若使用 PyCharm 打开项目，请将 interpreter 改为 spidervenv
-'''
+```
