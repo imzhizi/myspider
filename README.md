@@ -18,7 +18,7 @@ git clone
 cd myspider
 
 # 安装依赖， 在虚拟空间下运行一下命令
-pip install -r requirements.txt
+pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple  
 
 # 若使用 PyCharm 打开项目，请将 interpreter 改为 spidervenv
 ```
